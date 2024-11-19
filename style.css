@@ -1,7 +1,7 @@
 .chamada{
     background: blue;
     display: flex;
-    margin-top: 80px;
+    padding-top: 80px;
     margin-bottom: 80px;
     justify-content: center;
     
@@ -9,5 +9,7 @@
 body{
     background: black;
     margin: 0px;
+    color: aquamarine;
+    margin-bottom: 100px;
 
 }
